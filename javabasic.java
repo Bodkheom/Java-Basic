@@ -1,4 +1,3 @@
-import java.util.*;
 public class javabasic{
     public static void main(String[] args) {
         
@@ -28,14 +27,7 @@ public class javabasic{
         //   boolean bool = s.nextBoolean();
         //   System.out.println(bool);                 // basic input command for boolean end
 
-        Scanner s2 = new Scanner(System.in); //  sum of input commands using scanner
-
-        System.out.println("Enter two numbers:");
-        int num1 = s2.nextInt();
-        int num2 = s2.nextInt();
-        int sum = num1 + num2;
-        System.out.println("Sum of " + num1 + " and " + num2 + " is: " + sum); //  sum of input using scanner 
-        
+       
       
 
 

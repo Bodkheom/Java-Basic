@@ -6,7 +6,7 @@ public class productofaandb {
         int num1=s1.nextInt();
         int num2=s1.nextInt();
         int product=num1*num2;
-        System.out.println("Product of"+"a"+"b"+"is"+" "+product);
+        System.out.println("Product of4"+"a"+"b"+"is"+" "+product);
 
     }
 }
